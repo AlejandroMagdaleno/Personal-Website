@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 20px;
+}
+
+h2{
+    font-size: 15px;
+}
+
+img{
+    border-radius: 20px;
+    border-color: black;
+}
+
+body {
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 40px;
+}
+
+
